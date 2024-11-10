@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **fresh graduate**
 
-- 🌱 I’m currently learning **I’m currently learning Cloud platforms (AWS, GCP, Azure), Containerization (Docker, Kubernetes), Infrastructure as Code (Terraform, Ansible), CI/CD pipelines (Jenkins, GitLab);**
+- 🌱 **I’m currently learning Cloud platforms (AWS, GCP, Azure), Containerization (Docker, Kubernetes), Infrastructure as Code (Terraform, Ansible), CI/CD pipelines (Jenkins, GitLab);**
 
 - 📝 I regularly write articles on [devops , cloud](devops , cloud)
 

@@ -23,7 +23,7 @@
 - 📫 How to reach me **walid882001@gmail.com**
 - 📫 How to reach me **walid20-01526@student.eelu.edu.eg**
 
-- ⚡ Fun fact **Honey never spoils! 🍯**
+- ⚡ Fun fact **I do deployments for the desert before I do for the servers! 🍯**
 
 <p align="left">
 </p>

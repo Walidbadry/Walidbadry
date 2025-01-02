@@ -39,7 +39,7 @@
         alt="Aligned Image" 
         align="right" 
         width="400" 
-        height="150" 
+        height="170" 
         style="margin-left: 20px; margin-bottom: 10px;"
     />
 </p>

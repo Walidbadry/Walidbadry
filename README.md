@@ -38,7 +38,7 @@
         src="https://github.com/Walidbadry/Walidbadry/blob/main/sponj.jpg" 
         alt="Aligned Image" 
         align="right" 
-        width="300" 
+        width="400" 
         height="150" 
         style="margin-left: 20px; margin-bottom: 10px;"
     />

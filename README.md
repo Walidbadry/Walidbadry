@@ -35,7 +35,7 @@
 
 <p>
     <img 
-        src="https://media.licdn.com/dms/image/v2/C4D12AQFsIhMFOJVs0Q/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1609097444281?e=1735776000&v=beta&t=Hwl8yPOrJ2XiJ9p4jSUCAOUWyl_VP7wwNnBT1gy0QX0" 
+        src="https://github.com/Walidbadry/Walidbadry/blob/main/sponj.jpg" 
         alt="Aligned Image" 
         align="right" 
         width="500" 

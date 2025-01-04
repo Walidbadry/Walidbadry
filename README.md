@@ -35,11 +35,11 @@
 
 <p>
     <img 
-        src="https://github.com/Walidbadry/Walidbadry/blob/main/sponj.jpg" 
+        src="https://github.com/Walidbadry/Walidbadry/blob/main/gif3.gif" 
         alt="Aligned Image" 
         align="right" 
         width="400" 
-        height="170" 
+        height="165" 
         style="margin-left: 20px; margin-bottom: 10px;"
     />
 </p>

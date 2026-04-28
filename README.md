@@ -66,6 +66,7 @@
     src="https://github.com/Walidbadry/Walidbadry/blob/main/gif3.gif" 
     alt="banner" 
     width="100%" 
+    height="165"  
   />
 </p>
 

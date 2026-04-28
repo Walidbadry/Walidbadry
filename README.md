@@ -91,7 +91,7 @@
         src="https://github.com/Walidbadry/Walidbadry/blob/main/gif3.gif" 
         alt="Aligned Image" 
         align="right" 
-        width="310" 
+        width="290" 
         height="165" 
         style="margin-left: 20px; margin-bottom: 10px;"
     />

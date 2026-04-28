@@ -61,8 +61,6 @@
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="50"/>
 
   <!-- Automation -->
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="50"/>
-
 </p>
     <img 
         src="https://github.com/Walidbadry/Walidbadry/blob/main/gif3.gif" 
@@ -72,6 +70,20 @@
         height="165" 
         style="margin-left: 20px; margin-bottom: 10px;"
     />
+
+    
+</p>
+</p>
+    <img 
+        src="https://github.com/Walidbadry/Walidbadry/blob/main/gif3.gif" 
+        alt="Aligned Image" 
+        align="right" 
+        width="300" 
+        height="165" 
+        style="margin-left: 20px; margin-bottom: 10px;"
+    />
+
+    
 </p>
 
 

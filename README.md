@@ -56,8 +56,6 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50"/>
 
   <!-- Testing / CI -->
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="50"/>
 
   <!-- Automation -->

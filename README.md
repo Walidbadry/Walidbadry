@@ -65,8 +65,8 @@
   <img 
     src="https://github.com/Walidbadry/Walidbadry/blob/main/f.gif" 
     alt="banner" 
-    width="100%" 
-    height="200"  
+    width="85%" 
+    height="250"  
   />
 </p>
 

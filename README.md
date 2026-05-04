@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidbadry&label=Profile%20views&color=0e75b6&style=flat" alt="walidbadry" /> </p>
 
-- 🔭 I’m currently working on **fresh graduate**
+- 🔭 I’m currently working on ** Looking for job **
 
 - 🌱 **I’m currently learning Cloud platforms (AWS, GCP, Azure), Containerization (Docker, Kubernetes), Infrastructure as Code (Terraform, Ansible), CI/CD pipelines (Jenkins, GitLab);**
 

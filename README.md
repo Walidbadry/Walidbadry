@@ -63,7 +63,7 @@
   <!-- Automation -->
 <p align="center">
   <img 
-    src="" 
+    src="https://github.com/Walidbadry/Walidbadry/blob/main/f.gif" 
     alt="banner" 
     width="100%" 
     height="200"  

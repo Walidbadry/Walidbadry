@@ -63,7 +63,7 @@
   <!-- Automation -->
 <p align="center">
   <img 
-    src="[https://github.com/Walidbadry/Walidbadry/blob/main/gif3.gif](https://github.com/Walidbadry/LEMP-stack-wordpress-/blob/main/Pipeline-view.png)" 
+    src="" 
     alt="banner" 
     width="100%" 
     height="200"  
